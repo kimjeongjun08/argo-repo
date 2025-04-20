@@ -1,4 +1,4 @@
-from flask
+from fastapi
 
 app=Flask(__name__)
 
