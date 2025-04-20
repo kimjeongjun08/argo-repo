@@ -1,4 +1,4 @@
-from flask import Flask
+from fastapi
 
 app=Flask(__name__)
 
